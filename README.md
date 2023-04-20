@@ -2,4 +2,4 @@
 
 ##PhD student at Sorbonne University
 
-basilkottilingal.github.io
+[CV](basilkottilingal.github.io)
